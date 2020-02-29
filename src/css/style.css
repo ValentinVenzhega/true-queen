@@ -117,6 +117,19 @@ button {
   font-family: 'Open Sans Regular', sans-serif;
 }
 
+.clients-title {
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Tahoma-Bold', sans-serif;
+  font-weight: 700;
+  margin-top: 89px;
+  margin-bottom: 69px;
+}
+
+.clients-box {
+  margin-bottom: 35px;
+}
+
 @font-face {
   font-family: 'Tahoma Regular', sans-serif;
   src: url("../fonts/Tahoma.eot");
