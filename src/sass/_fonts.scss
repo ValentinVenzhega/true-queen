@@ -1,0 +1,27 @@
+@font-face {
+ font-family: 'Tahoma Regular', sans-serif;
+ src: url('../fonts/Tahoma.eot');
+ src: url('../fonts/Tahoma.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/Tahoma.woff') format('woff'),
+  url('../fonts/Tahoma.ttf') format('truetype');
+ font-weight: normal;
+ font-style: normal;
+}
+
+@font-face {
+ font-family: 'Tahoma Bold', sans-serif;
+ src: url('../fonts/Tahoma-Bold.eot');
+ src: url('../fonts/Tahoma-Bold.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/Tahoma-Bold.woff') format('woff'),
+  url('../fonts/Tahoma-Bold.ttf') format('truetype');
+ font-weight: normal;
+ font-style: normal;
+}
+
+@mixin regular {
+   font-family: 'Tahoma Regular', sans-serif;
+}
+
+@mixin bold {
+   font-family: 'Tahoma Boldr',  sans-serif;
+}
