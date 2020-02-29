@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+input:focus, button:focus {
+  outline: none;
+}
+/*# sourceMappingURL=style.css.map */

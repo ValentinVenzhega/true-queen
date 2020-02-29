@@ -2,10 +2,10 @@
     "version": 3,
     "mappings": "ACAA,AAAA,IAAI,CAAC;EACJ,MAAM,EAAE,CAAC;CAAG;;AAEb,AAAA,GAAG,CAAC;EACH,SAAS,EAAE,IAAI;CAAG;;AAEnB,AACC,KADI,AACH,MAAM,EADD,MAAM,AACX,MAAM,CAAC;EACP,OAAO,EAAE,IAAI;CAAG",
     "sources": [
-        "../src/sass/style.sass",
-        "../src/sass/_reset.sass",
-        "../src/sass/_main.sass",
-        "../src/sass/_fonts.scss"
+        "../sass/style.sass",
+        "../sass/_reset.sass",
+        "../sass/_main.sass",
+        "../sass/_fonts.scss"
     ],
     "names": [],
     "file": "style.css"
